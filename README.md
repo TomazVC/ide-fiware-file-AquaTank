@@ -2,9 +2,13 @@
 
 Bem-vindo ao repositório da IDE e integração Fiware responsável pelos dados dos sensores do AquaTank. Este repositório contém a pasta da IDE do Arduino, onde você pode encontrar o código para a IDE dos sensores, e a pasta do Fiware, que inclui uma coleção Postman para facilitar a integração com o Fiware.
 
+---
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o Arduino IDE instalado em seu sistema. Se ainda não tiver, você pode baixá-lo [aqui](https://www.arduino.cc/en/software). Além disso, é necessário fazer o download das bibliotecas localizadas na pasta "biblioteca-ide-file" deste repositório.
+
+---
 
 ## Configuração da IDE Arduino
 
@@ -25,4 +29,20 @@ O processo para configurar o Fiware é simples e é necessário apenas para real
 2. Crie um workspace no Postman.
 3. Clique em "Import" e importe o arquivo "FIWARE-AquaTank.postman_collection.json" da pasta "fiware-file" deste repositório.
 
+---
+
 Agora você está pronto para utilizar a IDE do Arduino para coletar dados dos sensores do AquaTank e integrar esses dados com o Fiware usando a coleção Postman fornecida. Divirta-se!
+
+---
+
+# Pessoas desenvolvedoras:
+
+⚠ **Atenção! Esse grupo possui integrantes em salas diversas.** ⚠
+
+|       Aluno       |     Rm     |   Turma   |
+| ----------------- | ---------- | --------- |
+| Gustavo Cristiano |   551924   |   1ESPF   |
+| Luna Gouvea       |   550836   |   1ESPV   |
+| Pedro P. Santos   |   552047   |   1ESPF   |
+| Rony Ken Nagai    |   551549   |   1ESPF   |
+| Tomáz V. Carballo |   551417   |   1ESPF   |
