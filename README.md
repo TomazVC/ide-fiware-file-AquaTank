@@ -4,7 +4,7 @@ Bem-vindo ao repositório da IDE e integração Fiware responsável pelos dados 
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter o Arduino IDE instalado em seu sistema. Se ainda não tiver, você pode baixá-lo [aqui]([link](https://www.arduino.cc/en/software)). Além disso, é necessário fazer o download das bibliotecas localizadas na pasta "biblioteca-ide-file" deste repositório.
+Antes de começar, certifique-se de ter o Arduino IDE instalado em seu sistema. Se ainda não tiver, você pode baixá-lo [aqui](https://www.arduino.cc/en/software). Além disso, é necessário fazer o download das bibliotecas localizadas na pasta "biblioteca-ide-file" deste repositório.
 
 ## Configuração da IDE Arduino
 
@@ -21,7 +21,7 @@ Antes de começar, certifique-se de ter o Arduino IDE instalado em seu sistema. 
 
 O processo para configurar o Fiware é simples e é necessário apenas para realizar alterações específicas na coleta de dados do AquaTank. Siga os passos abaixo:
 
-1. Crie uma conta no [Postman]([link](https://www.postman.com/)), caso ainda não tenha uma.
+1. Crie uma conta no [Postman](https://www.postman.com/), caso ainda não tenha uma.
 2. Crie um workspace no Postman.
 3. Clique em "Import" e importe o arquivo "FIWARE-AquaTank.postman_collection.json" da pasta "fiware-file" deste repositório.
 
