@@ -1,6 +1,6 @@
 # AquaTank Sensor Data IDE and Fiware Integration
 
-Bem-vindo ao repositório da IDE e integração Fiware responsável pelos dados dos sensores do AquaTank. Este repositório contém a pasta da IDE do Arduino, onde você pode encontrar o código para a IDE dos sensores, e a pasta do Fiware, que inclui uma coleção Postman para facilitar a integração com o Fiware.
+Bem-vindo ao repositório do código do ESP32 e da integração Fiware responsável pelos dados dos sensores do AquaTank. Este repositório contém a pasta com o código do ESP32 para ser usado na IDE do Arduino e a pasta do Fiware, que inclui uma coleção Postman para facilitar a integração com o Fiware.
 
 ---
 
@@ -17,7 +17,7 @@ Antes de começar, certifique-se de ter o Arduino IDE instalado em seu sistema. 
 3. Faça o download das bibliotecas presentes na pasta "biblioteca-ide-file" deste repositório.
 4. Importe todas as bibliotecas para a IDE.
 5. Selecione o modelo de placa como "DOIT ESP32 DEVKIT V1" em "Board".
-6. Certifique-se de que todos os sensores estão conectados corretamente às portas do ESP32.
+6. Certifique-se de que todos os sensores estão conectados corretamente às portas correspondentes do ESP32.
 7. Selecione a porta à qual o ESP32 está conectado em "Port".
 8. Clique em "Upload" para executar a IDE no ESP32.
 
