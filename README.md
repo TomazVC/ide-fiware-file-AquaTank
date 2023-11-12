@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do código do ESP32 e da integração Fiware responsável pelos dados dos sensores do AquaTank. Este repositório contém a pasta com o código do ESP32 para ser usado na IDE do Arduino e a pasta do Fiware, que inclui uma coleção Postman para facilitar a integração com o Fiware.
 
+Lembre-se, esse repositório é dedicado para quem possuí o AquaTank em mãos, ou para quem deseja estudar os códigos do funcionamento dos sensores do AquaTank.
+
 ---
 
 ## Pré-requisitos
@@ -29,7 +31,7 @@ O processo para configurar o Fiware é simples e é necessário apenas para real
 2. Crie um workspace no Postman.
 3. Clique em "Import" e importe o arquivo "FIWARE-AquaTank.postman_collection.json" da pasta "fiware-file" deste repositório.
 
-* Lembre-se, não é necessário a configuração do Fiware para o uso do cliente. Publicamos apenas para a avaliação dos professores. Pois, com o AquaTank em mãos, não será necessário a configuração do Fiware pela parte do usuário.
+* Lembre-se, não é necessário a configuração do Fiware para o uso do cliente.
 
 ---
 
